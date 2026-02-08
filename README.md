@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agency Image Tool
 
 A modern, client-side web application for compressing, converting, and resizing images. Built with vanilla JavaScript and Tailwind CSS.
@@ -51,3 +52,6 @@ agency-image-tool/
 ## Browser Support
 
 Works on all modern browsers (Chrome, Edge, Firefox, Safari). Requires JavaScript to be enabled.
+=======
+# agency-image-tool
+>>>>>>> 4fac882143e9cba92aa84ddeec8d34493f817638
